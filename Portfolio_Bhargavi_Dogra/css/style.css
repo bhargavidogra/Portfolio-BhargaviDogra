@@ -132,6 +132,12 @@ h3 { font-size: var(--fs-h3) }
     margin-bottom: 2em;
 }
 
+.section__subtitle--projectwork {
+    color:  var(--clr-accent);
+    font-weight: var(--fw-reg);
+    margin-bottom: 2em;
+}
+
 /* header */
 
 header {
@@ -397,7 +403,9 @@ header {
 .portfolio__item {
     background: var(--clr-accent);
     overflow: hidden;
-    background-color: #fff;
+    background-color: #303030;
+    padding: 20px;
+    text-decoration: none;
 }
 
 .portfolio__img {
