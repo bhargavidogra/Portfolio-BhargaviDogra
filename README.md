@@ -1,16 +1,17 @@
-# title(){return this.options.title||this.options.name}
+# Portfilo || Bhargavi Dogra
 
-## Supporting Scrimba
+Who I am?  
+Hi, I’m Bhargavi, A Software Engineer by profession. In my free time I love doing weblogging and writing about positive thoughts and ways to lead your life.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+What I do?
+* Design
+: Designing is not just about making it Decorative, but Design is as much an Art as it is a Science.
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+* Development
+: Development is not just about building softwares, but its Creative process of conceiving ,specifying, Designing, and creating a programmatic Art.
 
-	It would also mean the world to us if you share the courses.  
+* Weblogging
+: Web+loging is not just about writing a post, but its an Art of portraying your ideas ,thoughts and information in a Communicative fashion.
 
-Happy Coding!
+## Support Development! 
+## Happy Coding!
